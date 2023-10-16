@@ -25,3 +25,16 @@ Journal table - All transactions are booked through journals, so it's the primar
 Document table - When you enter transactions, you'll need documents such as a sales quote and a sales order. Document tables are secondary transactional tables. These tables are always comprised of two tables: a table with the header information and a table with the line details. For example, the Sales Header and Sales Line tables contain information about documents like sales orders and sales quotes.
 
 Document history table - These tables are the historical version of the document tables. When you post documents from the document tables, they will go through a journal table and end up in a document history table. The Sales Invoice Header and Sales Invoice Line tables are examples of document history tables.
+
+
+# Implement the data process model in Dynamics 365 Business Central
+
+https://learn.microsoft.com/en-us/training/modules/implement-data-process-model-business-central/
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
