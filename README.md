@@ -45,3 +45,20 @@ https://learn.microsoft.com/en-us/training/modules/implement-data-process-model-
 https://learn.microsoft.com/en-us/training/modules/work-with-master-data-business-central/2-setup-table-signature-design
 
 ![Alt text](image-4.png)
+
+
+# Use document standards in Dynamics 365 Business Central
+
+https://learn.microsoft.com/en-us/training/modules/use-document-standards-business-central/1-introduction
+
+![Alt text](image-5.png)
+
+The following screenshot shows a document page with the ListPart lines in red.
+
+![Alt text](image-6.png)
+
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
