@@ -38,3 +38,10 @@ https://learn.microsoft.com/en-us/training/modules/implement-data-process-model-
 ![Alt text](image-2.png)
 
 ![Alt text](image-3.png)
+
+# Work with master data in Dynamics 365 Business Central
+
+
+https://learn.microsoft.com/en-us/training/modules/work-with-master-data-business-central/2-setup-table-signature-design
+
+![Alt text](image-4.png)
