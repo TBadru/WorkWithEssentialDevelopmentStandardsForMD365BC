@@ -2,6 +2,8 @@ table 50126 ExampleType
 {
     DataClassification = CustomerContent;
     Caption = 'Example Type';
+    LookupPageId = "Example Types";
+    DrillDownPageId = "Example Types";
 
     fields
     {

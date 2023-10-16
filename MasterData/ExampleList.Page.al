@@ -5,9 +5,12 @@ page 50126 "Example List"
     UsageCategory = Lists;
     SourceTable = Example;
     Caption = 'Example List';
+    CardPageId = "Example Card";
+    Editable = false;
 
     layout
     {
+
         area(Content)
         {
             repeater(General)
