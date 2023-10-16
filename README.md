@@ -1,5 +1,7 @@
 # Define the different functional table types and characteristics
 
+https://learn.microsoft.com/en-us/training/modules/identify-table-types/
+
 As a business management application, Business Central manages and processes a considerable amount of data, all of which is stored in tables. From a technical perspective, all tables are the same because they all contain fields, keys, and triggers. From a functional perspective, different types of tables exist to serve different purposes.
 
 Understanding the different table types in Business Central helps you to efficiently customize the existing functionality and design new application areas.
