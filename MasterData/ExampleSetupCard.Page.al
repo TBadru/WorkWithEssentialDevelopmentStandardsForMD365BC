@@ -20,6 +20,11 @@ page 50129 ExampleSetupCard
                 {
                     ToolTip = 'Specifies the value of the Example Nos. field.';
                 }
+
+                field("Document Nos."; Rec."Document Nos.")
+                {
+                    ToolTip = 'Specifies the value of the Document Nos. field.';
+                }
             }
         }
     }

@@ -14,6 +14,11 @@ table 50124 "Example Setup"
             Caption = 'Example Nos.';
             TableRelation = "No. Series";
         }
+        field(3; "Document Nos."; Code[20])
+        {
+            Caption = 'Document Nos.';
+            TableRelation = "No. Series";
+        }
     }
     keys
     {
@@ -22,4 +27,6 @@ table 50124 "Example Setup"
             Clustered = true;
         }
     }
+
+
 }
