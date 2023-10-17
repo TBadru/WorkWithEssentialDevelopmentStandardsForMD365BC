@@ -1,4 +1,4 @@
-page 50130 "Example Document List"
+page 50143 "Example Document List"
 {
     PageType = List;
     ApplicationArea = All;

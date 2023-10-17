@@ -8,7 +8,7 @@
             "environmentType": "Sandbox",
             "environmentName": "sandbox",
             // "startupObjectId": 50126, //MasterData
-            "startupObjectId": 50130, // Documents
+            "startupObjectId": 50143, // Documents
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
